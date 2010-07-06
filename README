@@ -1,0 +1,8 @@
+#
+# Eclipse Command Viewer
+#
+# A small Eclipse Plugin to show all in eclipse available commands with the specified command ID. 
+# This helps to develop a own eclipse key scheme.   
+# 
+# License under EPL 
+# see http://www.eclipse.org/legal/epl-v10.html 

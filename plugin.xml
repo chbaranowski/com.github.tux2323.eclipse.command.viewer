@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            id="com.github.tux2323.eclipse.command.viewer"
+            name="Eclipse Command Tools">
+      </category>
+      <view
+            category="com.github.tux2323.eclipse.command.viewer"
+            class="com.github.tux2323.eclipse.command.viewer.CommandView"
+            icon="icons/sample.gif"
+            id="com.github.tux2323.eclipse.command.viewer.CommandView"
+            name="Command Browser">
+      </view>
+   </extension>
+
+</plugin>
